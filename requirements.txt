@@ -1,0 +1,7 @@
+Flask
+sqlalchemy
+pymysql
+cryptography
+pandas
+tqdm
+joblib
